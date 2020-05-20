@@ -1,6 +1,7 @@
 ---
 layout: default
 title: ddd
-nav_order: 7
+parent: Utilities
+nav_order: 3
 ---
 안녕하세요
