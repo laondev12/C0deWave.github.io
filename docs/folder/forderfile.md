@@ -1,8 +1,8 @@
 ---
 layout: default
-title: ddd
-parent: Folder
-nav_order: 1
+title: forderfile
+parent: folder
+nav_order: 2
 ---
 # 안녕하세요
 
