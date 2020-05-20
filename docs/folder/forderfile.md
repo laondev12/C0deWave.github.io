@@ -1,7 +1,7 @@
 ---
 layout: default
 title: ddd
-parent: folder
+parent: Folder
 nav_order: 1
 ---
 # 안녕하세요
