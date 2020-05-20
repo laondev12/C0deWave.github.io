@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Color
-parent: folder
+parent: "폴더"
 nav_order: 1
 ---
 
