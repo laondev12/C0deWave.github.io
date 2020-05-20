@@ -59,4 +59,4 @@ compress_html:
   blanklines: false
   profile: false
   
-remote_theme : pmarsceill/just-the-docs
+theme: just-the-docs
