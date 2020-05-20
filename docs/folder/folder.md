@@ -1,6 +1,6 @@
 ---
 layout: default
-title: folder
+title: 
 nav_order: 100
 has_children: true
 permalink: docs/folder
