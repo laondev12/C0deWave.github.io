@@ -1,8 +1,10 @@
 ---
 layout: default
-title: How to make gitblog
-nav_order: 4
-permalink: docs/gitblog
+title: How To Make a gitblog
+parent: git
+nav_order: 1
+---
+
 ---
 # 깃 블로그를 만드는 방법
 
