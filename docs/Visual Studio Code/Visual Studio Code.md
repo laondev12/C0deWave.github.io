@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Visual Studio Code
-nav_order: 100
+nav_order: 3
 has_children: true
 permalink: docs/Visual Studio Code
 ---
