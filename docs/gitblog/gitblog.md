@@ -2,7 +2,7 @@
 layout: default
 title: How to make blog
 nav_order: 4
-permalink: docs/form
+permalink: docs/gitblog
 ---
 # 깃 블로그를 만드는 방법
 
