@@ -1,6 +1,6 @@
 ---
 layout: default
-title: How to make blog
+title: How to make gitblog
 nav_order: 4
 permalink: docs/gitblog
 ---
