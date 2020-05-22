@@ -3,7 +3,7 @@ layout: default
 title: WhoAmI?
 nav_order: 1
 description: "Just the Docs is a responsive Jekyll theme with built-in search that is easily customizable and hosted on GitHub Pages."
-permalink: /docs/1-WhoAmI
+permalink: /
 ---
 
 # 안녕하세요 C0deWave 입니다.
