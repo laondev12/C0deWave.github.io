@@ -3,7 +3,7 @@ layout: default
 title: SoftwareEngineering
 nav_order: 5
 has_children: true
-permalink: docs/SoftwareEngineering
+permalink: docs/5-SoftwareEngineering
 ---
 
 # 소프트웨어 공학

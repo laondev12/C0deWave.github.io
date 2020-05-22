@@ -3,7 +3,7 @@ layout: default
 title: Markdown
 nav_order: 98
 has_children: true
-permalink: docs/markdown
+permalink: docs/98-markdown
 ---
 
 # 여기서는 마크다운 문법을 사용하는 방법이 기술되어 있습니다.

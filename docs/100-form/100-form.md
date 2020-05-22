@@ -1,9 +1,9 @@
 ---
 layout: default
-title: form
+title: 100-form
 nav_order: 100
 has_children: true
-permalink: docs/form
+permalink: docs/100-form
 ---
 
 # 폴더를 만드는 양식입니다.
