@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 100-form
+title: form
 nav_order: 100
 has_children: true
 permalink: docs/100-form
