@@ -52,9 +52,6 @@ nav_order: 3
                 //측정이 시작된 경우
                 if (isStart) {
 
-                    //애니메이션 제거
-                    imageView.clearAnimation()
-
                     //5초간 최대값을 측정. 현재 측정된 값이 최대 값보다 크면 최대값을 현재값으로 변경
                     if (maxPower < power) maxPower = power
 
@@ -101,26 +98,6 @@ override fun onStart() {
         isStart = false
         startTime = 0L
         startLabel.text = "핸드폰을 손에 쥐고 주먹을 내지르세요"
-
-        //애니메이션 시작
-        val animation = AnimationUtils.loadAnimation(this@MainActivity,R.anim.alpha_scale)
-        imageView.startAnimation(animation)
-        //애니메이션 리스너 설정
-        animation.setAnimationListener(object  : Animation.AnimationListener{
-            override fun onAnimationRepeat(animation: Animation?) {
-            //애니메이션이 반복할 때의 처리 코드를 작성한다.
-            }
-
-            override fun onAnimationStart(animation: Animation?) {
-            //애니메이션이 시작할때의 코드를 작성한다.
-            }
-
-            override fun onAnimationEnd(animation: Animation?) {
-            //애니메이션이 종료될 때의 코드를 작성한다.
-            }
-        })
-
-
 
         //센서의 변화값을 처리할 리스너를 등록한다.
         //TYPE_LINEAR_ACCELERATION은 중력값을 제외하고 x,y,z축에 측정된 가속도만 계산되어 나온다.
