@@ -2,7 +2,7 @@
 layout: default
 title: "깃허브를 이용해서 마크다운 이미지 링크 얻기"
 parent: git
-nav_order: 2
+nav_order: 3
 ---
 
 # 깃허브를 이용해서 마크다운 Url을 얻어보자.

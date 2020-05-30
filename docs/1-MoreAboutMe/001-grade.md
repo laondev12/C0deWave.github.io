@@ -2,7 +2,7 @@
 layout: default
 title: "학점"
 parent: More About Me
-nav_order: 2
+nav_order: 1
 ---
 # 전공 학점
 
