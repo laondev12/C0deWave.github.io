@@ -2,7 +2,7 @@
 layout: default
 title: "풀 리퀘스트를 하는 방법 pull request"
 parent: git
-nav_order: 1
+nav_order: 2
 ---
 # How to use pull requset
 
