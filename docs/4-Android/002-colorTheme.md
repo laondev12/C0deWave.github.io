@@ -9,6 +9,15 @@ nav_order: 2
 
 우선은 values - style 를 열고 원하는 스타일을 추가해 줍니다.
 
+필요한 색이 따로 있는 경우에는 value- color에서 색을 따로 지정해 주면 됩니다.
+
+```xml
+<!--버튼에서 사용할 컬러 -->
+<color name="colorButton">#2196F3</color>
+<!--버튼 텍스트에서 사용할 컬러-->
+<color name="colorButtonText">#FFFFFF</color>
+```
+
 저는 AppTheme.Result라는 style를 추가했습니다.
 
 ```xml
