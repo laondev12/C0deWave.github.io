@@ -10,11 +10,11 @@ nav_order: 1
 
 저는 아래의 블로그 글을 참고했습니다.
 
-https://dreamgonfly.github.io/2018/01/27/jekyll-remote-theme.html
+[https://dreamgonfly.github.io/2018/01/27/jekyll-remote-theme.html](https://dreamgonfly.github.io/2018/01/27/jekyll-remote-theme.html)
 
 따라서 저는 깃허브에서 지금 블로그 레이아웃을 찾았습니다.
 
-https://github.com/pmarsceill/just-the-docs
+[https://github.com/pmarsceill/just-the-docs](https://github.com/pmarsceill/just-the-docs)
 
 ---
 ## 만드는 방법 정리

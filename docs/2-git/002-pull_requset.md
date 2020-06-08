@@ -81,4 +81,4 @@ nav_order: 2
 
 
 
-참조 : https://wayhome25.github.io/git/2017/07/08/git-first-pull-request-story/
+참조 : [https://wayhome25.github.io/git/2017/07/08/git-first-pull-request-story/](https://wayhome25.github.io/git/2017/07/08/git-first-pull-request-story/)

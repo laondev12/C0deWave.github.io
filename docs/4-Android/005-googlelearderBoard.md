@@ -9,7 +9,7 @@ nav_order: 5
 
 먼저 연동을 위해서 구글 플레이 콘솔에 로그인을 해야 합니다.
 
-https://play.google.com/apps/publish/
+[https://play.google.com/apps/publish/](https://play.google.com/apps/publish/)
 
 <img width="1443" alt="스크린샷 2020-05-30 오후 1 48 32" src="https://user-images.githubusercontent.com/16849874/83347934-751ac580-a363-11ea-8bc4-dce2fdfc6d8b.png">
 

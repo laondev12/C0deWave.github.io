@@ -17,7 +17,7 @@ nav_order: 1
 
 예제 URI
 
-* http://211.237.50.150:7080/openapi/sample/xml/Grid_20150827000000000226_1/1/5/?RECIPE_NM_KO=%EC%95%BD%EC%8B%9D
+* [http://211.237.50.150:7080/openapi/sample/xml/Grid_20150827000000000226_1/1/5/?RECIPE_NM_KO=%EC%95%BD%EC%8B%9D](http://211.237.50.150:7080/openapi/sample/xml/Grid_20150827000000000226_1/1/5/?RECIPE_NM_KO=%EC%95%BD%EC%8B%9D)
 
 결과 화면
 ![스크린샷 2020-06-03 오후 10 49 32](https://user-images.githubusercontent.com/16849874/83645235-34ce7800-a5ed-11ea-9f85-64487334b51a.png)
