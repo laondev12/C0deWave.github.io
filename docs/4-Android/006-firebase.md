@@ -9,6 +9,8 @@ nav_order: 6
 
 먼저 파이어 베이스에서 앱 등록을 진행해야 합니다.
 
+[https://console.firebase.google.com/?hl=ko](https://console.firebase.google.com/?hl=ko)
+
 ![스크린샷 2020-06-05 오후 6 09 51](https://user-images.githubusercontent.com/16849874/83877773-13e55e80-a776-11ea-81a7-e1a3a3ba5a30.png)
 
 위의 이미지에서 언드로이드 아이콘을 눌러서 안드로이드 앱을 등록합니다.
