@@ -2,7 +2,7 @@
 layout: default
 title: "Fab이 들어간 Bottom Action Bar 만들어 보기"
 parent: Android
-nav_order: 16
+nav_order: 17
 ---
 
 # Fab이 들어간 Bottom Action Bar 만들어 보기
@@ -78,3 +78,7 @@ nav_order: 16
 ```
 
 그럼 화면이 잘 나오는 것을 알 수 있다.
+
+하자민 이게 학교 실습을 완료한것이 아니다.
+
+다음글을 보자.
