@@ -17,6 +17,12 @@ nav_order: 21
 
 textView를 하나 만들고 Http 요청을 한 결과를 반환해주는 역할을 한다.
 
+일반 http를 호출하는 경우에는 메니페스트에 application 부분에 해당 내용을 추가하면 된다.
+
+```xml
+android:usesCleartextTraffic="true"
+```
+
 그전에 gradle를 먼저 수정해 주면 된다.
 
 ```kotlin
