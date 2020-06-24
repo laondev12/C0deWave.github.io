@@ -7,6 +7,13 @@ nav_order: 7
 
 # 피카소 라이브러리를 이용한 이미지 불러오기
 
+먼저 gradle 수정하기
+```
+//Picasso	 	 
+def picassoVersion = "2.71828"	 	 
+implementation "com.squareup.picasso:picasso:$picassoVersion"	
+```
+
 1. 먼저 이미지 리소스를 지정해 줍니다.
 
 ```kotlin
