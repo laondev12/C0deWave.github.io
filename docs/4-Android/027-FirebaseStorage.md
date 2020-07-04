@@ -7,6 +7,12 @@ nav_order: 27
 
 # 파이어베이스 Storage사용해 보기
 
+참조
+
+[https://firebase.google.com/docs/storage/android/start](https://firebase.google.com/docs/storage/android/start)
+
+또한 파이어베이스 콘솔에서 Storage를 활성화 해야한다.
+
 이번에는 파이어베이스의 많은 다양한 기능중 하나인 Storage를 사용하는 방법을 알아 보고자 한다.
 
 나는 이번에 앨범에서 사진을 끌어와서 이를 파이어베이스의 Storage 서버에 올리고자 한다.
