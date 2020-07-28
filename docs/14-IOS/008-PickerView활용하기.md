@@ -86,6 +86,8 @@ class ViewController: UIViewController , UIPickerViewDelegate,UIPickerViewDataSo
         return PICKER_VIEW_HEIGHT
     }
 }
-
-
 ```
+
+최종 화면
+
+<img width="469" alt="스크린샷 2020-07-29 오전 12 28 30" src="https://user-images.githubusercontent.com/16849874/88690575-c3b3c880-d136-11ea-8a30-9387ad84d414.png">
