@@ -31,7 +31,7 @@ import WebKit
 
 메인 스레드에서는 이 작업을 수행할 수 없다.
 
-```
+```swift
     func loadWebPage(_ url:String){
         let myUrl = URL(string: url)
         let myRequest = URLRequest(url: myUrl!)
@@ -48,7 +48,7 @@ import WebKit
 
 여기에는 각각에 맞는 함수를 추가해 주면된다.
 
-```
+```swift
     //Stop Button
     @IBAction func btnStop(_ sender: UIBarButtonItem) {
         myWebView.stopLoading()
