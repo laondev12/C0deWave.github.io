@@ -20,17 +20,14 @@ github : https://github.com/C0deWave
 
 만들어 본 안드로이드 어플
 
-1. 코로나 마스크 찾기 어플
+- 자격증의 민족
 
-    코로나 마스크 어플 이미지 추가하기
+    ![설명 이미지](https://user-images.githubusercontent.com/16849874/88369872-e73fe180-cdcb-11ea-9d48-5da0ee3d5d3b.png)
 
-    ![]()
+- 코로나 마스크 찾기 어플
 
-2. 로또 복권 어플
+    ![코로나 마스크 어플 이미지](https://lh3.googleusercontent.com/sAtMzQmXCuldafaeeadRxQ7pyb32igwLbB-JqVL9lxtHOpjem8RwAKVLjliQDgoK0A=w3982-h2190-rw)
 
-    로또 복권 어플 이미지 추가하기
+- 로또 복권 어플
 
-    ![]()
-
-
-has_children: true
+    <img width="659" alt="스크린샷 2020-07-31 오전 8 30 44" src="https://user-images.githubusercontent.com/16849874/88984296-2f995b00-d308-11ea-99c7-8874845ef6f6.png">
