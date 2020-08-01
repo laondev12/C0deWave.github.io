@@ -58,6 +58,7 @@ class ViewController: UIViewController , UIPickerViewDelegate,UIPickerViewDataSo
     
     //PickerView를 오버라이딩 하면 무조건 넣어야 하는 함수입니다.
     func pickerView(_ pickerView: UIPickerView, numberOfRowsInComponent component: Int) -> Int {
+        //배열의 개수를 넣어줍니다.
         return imageFileName.count
     }
     
@@ -68,6 +69,8 @@ class ViewController: UIViewController , UIPickerViewDelegate,UIPickerViewDataSo
 //    }
     
     //PickerView의 내용을 이미지로 만들어 줍니다.
+    //이미지의 크기를 조절해 줍니다.
+
     func pickerView(_ pickerView: UIPickerView, viewForRow row: Int, forComponent component: Int, reusing view: UIView?) -> UIView {
         
         let imageView = UIImageView(image: imageArray[row])
