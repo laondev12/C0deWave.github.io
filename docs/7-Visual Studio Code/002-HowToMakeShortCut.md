@@ -1,6 +1,6 @@
 ---
 layout: default
-title: How To Change a Color Theme
+title: How To Make a KeyMap
 parent: Visual Studio Code
 nav_order: 2
 ---
