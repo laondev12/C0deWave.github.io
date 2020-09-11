@@ -2,7 +2,7 @@
 layout: default
 title: "Beacket Pair_코드 블록 구분해서 보기"
 parent: Visual Studio Code
-nav_order: 4
+nav_order: 5
 ---
 
 # Beacket Pair_코드 블록 구분해서 보기
