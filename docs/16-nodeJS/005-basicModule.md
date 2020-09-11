@@ -133,4 +133,26 @@ var text = fs.readFileSync('testfile.txt','utf-8');
 console.log(text);
 ```
 
-이번에는 
+이번에는 이벤트 기반으로 작동하는 readFile을 보도록 하겠습니다.
+
+```js
+var fs = require('fs');
+
+var text = fs.readFile('testfile.txt', 'utf-8', function (error, data) {
+    if (error) {
+        console.log(error);
+    } else {
+        console.log(data);
+    }
+});
+
+//파일을 씁니다.
+fs.writeFile('testfile.txt','Codewave입니다.','utf8',function(error) {
+    if (error) {
+        console.log(error);
+    } else {
+        console.log("저장 완료!!!");
+    }
+});
+```
+
