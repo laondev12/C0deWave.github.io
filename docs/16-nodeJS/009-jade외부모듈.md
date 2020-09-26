@@ -1,6 +1,6 @@
 ---
 layout: default
-title: jade외부 모듈
+title: jade외부모듈
 parent: nodeJS
 nav_order: 9
 ---
