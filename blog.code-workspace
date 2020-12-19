@@ -11,6 +11,9 @@
 		},
 		{
 			"path": "../javaDev"
+		},
+		{
+			"path": "../python"
 		}
 	],
 	"settings": {
