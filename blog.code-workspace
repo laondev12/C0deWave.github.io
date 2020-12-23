@@ -2,18 +2,6 @@
 	"folders": [
 		{
 			"path": "."
-		},
-		{
-			"path": "../nodeStudy"
-		},
-		{
-			"path": "../algo"
-		},
-		{
-			"path": "../javaDev"
-		},
-		{
-			"path": "../python"
 		}
 	],
 	"settings": {
