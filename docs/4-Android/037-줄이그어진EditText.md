@@ -201,3 +201,9 @@ public class LinedEditText extends androidx.appcompat.widget.AppCompatEditText {
 
 android:lineSpacingExtra="10dp"
 android:lineSpacingMultiplier="1"
+
+한국어를 기준으로 할 경우에는 위의 클래스 파일에서
+
+int lineHeight = getLineHeight() + 10;
+
+으로 바꾸어 주어야 한다.
