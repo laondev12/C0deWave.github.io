@@ -202,8 +202,6 @@ public class LinedEditText extends androidx.appcompat.widget.AppCompatEditText {
 android:lineSpacingExtra="10dp"
 android:lineSpacingMultiplier="1"
 
-한국어를 기준으로 할 경우에는 위의 클래스 파일에서
+기본 글씨체의 경우에는 한국어와 영어의 글자 높이가 달라서 줄이 알맞게 들어가지 않는다.
 
-int lineHeight = getLineHeight() + 10;
-
-으로 바꾸어 주어야 한다.
+이 경우에는 네이버의 나눔 글꼴을 이용해서 구현을 하면 한영 모두 높이가 같아서 개발이 편하다.
